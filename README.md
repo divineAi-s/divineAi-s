@@ -34,7 +34,7 @@ Here are some simple AI projects I’m experimenting with:
 ## 📫 Connect With Me
 - **akinmolayanoluwaseunai1@gmail.com:** 
 - **LinkedIn:** 
-- **GitHub:** 
+- **[GitHub](https://github.com/divineAi-s/divineAi-s):** 
 
 ---
 
