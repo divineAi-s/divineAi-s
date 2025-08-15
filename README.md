@@ -32,9 +32,9 @@ Here are some simple AI projects I’m experimenting with:
 ---
 
 ## 📫 Connect With Me
-- **Email:** your-email@example.com  
-- **LinkedIn:** [Your LinkedIn Link](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [Your GitHub Link](https://github.com/yourusername)
+- **akinmolayanoluwaseunai1@gmail.com:** 
+- **LinkedIn:** 
+- **GitHub:** 
 
 ---
 
